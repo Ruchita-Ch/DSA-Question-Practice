@@ -1,0 +1,118 @@
+1️⃣ Maximum Sum Subarray of Size K
+
+🔹 Type: Fixed Window
+🔹 Platform: GFG
+👉 Maximum Sum Subarray of size K
+
+2️⃣ Average of Subarray of Size K
+
+🔹 Type: Fixed Window
+🔹 Platform: LeetCode
+👉 643. Maximum Average Subarray I
+
+3️⃣ Count Subarrays of Size K
+
+🔹 Type: Fixed Window
+🔹 Platform: GFG
+👉 Count Occurrences of Anagrams (basic version)
+
+🟡 EASY LEVEL (MOST IMPORTANT)
+4️⃣ First Negative Number in Every Window of Size K
+
+🔹 Type: Fixed Window
+🔹 Platform: GFG
+👉 First negative integer in every window of size k
+
+5️⃣ Maximum Number of Vowels in a Substring of Given Length
+
+🔹 Type: Fixed Window
+🔹 Platform: LeetCode
+👉 1456. Maximum Number of Vowels in a Substring of Given Length
+
+6️⃣ Contains Duplicate II
+
+🔹 Type: Fixed Window
+🔹 Platform: LeetCode
+👉 219. Contains Duplicate II
+
+7️⃣ Longest Substring Without Repeating Characters
+
+🔹 Type: Variable Window
+🔹 Platform: LeetCode
+👉 3. Longest Substring Without Repeating Characters
+
+8️⃣ Longest Substring with At Most Two Distinct Characters
+
+🔹 Type: Variable Window
+🔹 Platform: LeetCode (Premium)
+👉 159. Longest Substring with At Most Two Distinct Characters
+
+🟠 EASY → MEDIUM TRANSITION
+9️⃣ Max Consecutive Ones (Flip K Zeros)
+
+🔹 Type: Variable Window
+🔹 Platform: LeetCode
+👉 1004. Max Consecutive Ones III
+
+🔟 Longest Subarray of 1’s After Deleting One Element
+
+🔹 Type: Variable Window
+🔹 Platform: LeetCode
+👉 1493. Longest Subarray of 1's After Deleting One Element
+
+🔵 MEDIUM (INTERMEDIATE LEVEL)
+1️⃣1️⃣ Longest Repeating Character Replacement
+
+🔹 Type: Variable Window
+🔹 Platform: LeetCode
+👉 424. Longest Repeating Character Replacement
+
+1️⃣2️⃣ Fruit Into Baskets
+
+🔹 Type: Variable Window
+🔹 Platform: LeetCode
+👉 904. Fruit Into Baskets
+
+1️⃣3️⃣ Minimum Size Subarray Sum
+
+🔹 Type: Variable Window
+🔹 Platform: LeetCode
+👉 209. Minimum Size Subarray Sum
+
+1️⃣4️⃣ Permutation in String
+
+🔹 Type: Fixed Window
+🔹 Platform: LeetCode
+👉 567. Permutation in String
+
+1️⃣5️⃣ Find All Anagrams in a String
+
+🔹 Type: Fixed Window
+🔹 Platform: LeetCode
+👉 438. Find All Anagrams in a String
+
+🔴 INTERMEDIATE (IMPORTANT FOR INTERVIEWS)
+1️⃣6️⃣ Longest Substring with At Most K Distinct Characters
+
+🔹 Type: Variable Window
+🔹 Platform: LeetCode (Premium)
+👉 340. Longest Substring with At Most K Distinct Characters
+
+1️⃣7️⃣ Subarray Product Less Than K
+
+🔹 Type: Variable Window
+🔹 Platform: LeetCode
+👉 713. Subarray Product Less Than K
+
+1️⃣8️⃣ Sliding Window Maximum
+
+🔹 Type: Fixed Window + Deque
+🔹 Platform: LeetCode
+👉 239. Sliding Window Maximum
+
+🧠 HOW TO PRACTICE (VERY IMPORTANT)
+
+Follow this exact order:
+1️⃣ Solve Fixed Window first (Q1–Q6)
+2️⃣ Then Variable Window basic (Q7–Q10)
+3️⃣ Then Interview level (Q11–Q18)
