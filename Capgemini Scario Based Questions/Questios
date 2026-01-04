@@ -1,0 +1,150 @@
+🔹 ARRAY – Scenario Based Questions (Highly Expected)
+1️⃣ Employee Salary Analysis
+
+Scenario:
+You are given an array of employee salaries.
+Find the second highest salary without sorting the array.
+
+➡️ Concepts: traversal, comparison
+➡️ Expect follow-ups: duplicates allowed or not?
+
+2️⃣ Attendance System
+
+Scenario:
+An array represents student roll numbers who attended class.
+Some roll numbers appear more than once.
+Find duplicate roll numbers.
+
+➡️ Concepts: Hashing / nested loop
+➡️ Capgemini likes: simple approach first
+
+3️⃣ Stock Profit Problem
+
+Scenario:
+An array represents stock prices for each day.
+Find the maximum profit by buying on one day and selling later.
+
+➡️ Concepts: min so far, max difference
+➡️ Very common mass-hiring question
+
+4️⃣ Shift Management
+
+Scenario:
+Employees are arranged in an array based on shifts.
+Rotate the array right by K positions.
+
+➡️ Concepts: rotation logic
+➡️ May ask space-optimized solution
+
+5️⃣ Product Defect Check
+
+Scenario:
+Array contains product IDs from 1 to N.
+One product ID is missing.
+Find the missing number.
+
+➡️ Concepts: sum formula / XOR
+➡️ Classic Capgemini favorite
+
+6️⃣ ATM Cash Dispensing
+
+Scenario:
+Array contains denominations in random order.
+Find all pairs whose sum equals target amount.
+
+➡️ Concepts: two loops / HashSet
+➡️ Explain time complexity clearly
+
+7️⃣ Survey Results
+
+Scenario:
+Array contains responses (0s and 1s).
+Move all 0s to left and 1s to right without changing order.
+
+➡️ Concepts: two pointers / counting
+
+8️⃣ Performance Monitoring
+
+Scenario:
+Array contains performance scores.
+Find the maximum and minimum in single traversal.
+
+➡️ Concepts: linear scan
+➡️ Time complexity question expected
+
+🔹 STRING – Scenario Based Questions (Highly Expected)
+1️⃣ Username Validation
+
+Scenario:
+Given a username string, check whether it is a palindrome.
+
+➡️ Concepts: two pointers / reverse string
+
+2️⃣ Chat Application
+
+Scenario:
+A message string is given.
+Count frequency of each character.
+
+➡️ Concepts: HashMap / ASCII array
+➡️ Ask about case-sensitivity
+
+3️⃣ Email Processing
+
+Scenario:
+Given an email string, find the number of vowels and consonants.
+
+➡️ Concepts: iteration, conditions
+➡️ Easy but asked often
+
+4️⃣ Document Comparison
+
+Scenario:
+Two strings are given.
+Check whether they are anagrams.
+
+➡️ Concepts: sorting / frequency array
+➡️ Follow-up: ignore spaces and case?
+
+5️⃣ Log File Analysis
+
+Scenario:
+A string contains words separated by spaces.
+Find the word with maximum length.
+
+➡️ Concepts: split(), traversal
+
+6️⃣ Password Strength Checker
+
+Scenario:
+Given a password string, remove all special characters.
+
+➡️ Concepts: regex / Character methods
+
+7️⃣ URL Shortener
+
+Scenario:
+Given a sentence, reverse each word, not the full string.
+
+➡️ Concepts: split + reverse logic
+
+8️⃣ Data Compression
+
+Scenario:
+Given a string like aaabbc, compress it to a3b2c1.
+
+➡️ Concepts: character count
+➡️ Very commonly asked
+
+🔹 Mixed Array + String Questions
+1️⃣ Feedback System
+
+Scenario:
+Array of strings contains feedback words.
+Find the most frequently occurring word.
+
+2️⃣ Search Feature
+
+Scenario:
+Array of strings contains city names.
+Check if a given city exists (case-insensitive).
