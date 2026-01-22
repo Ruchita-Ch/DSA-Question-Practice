@@ -20,7 +20,11 @@ public class Q1ContainsDuplicates {
                 hasDuplicate = true;
                 break;
             }
+
+            set.add(num);
           }
+
+          System.out.println(hasDuplicate);
 
     }
 }
