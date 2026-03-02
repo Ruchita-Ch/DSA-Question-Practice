@@ -1,0 +1,220 @@
+1️⃣ Two Sum II – Input Array Is Sorted
+
+LeetCode #167
+
+Concept:
+
+Left pointer at start
+
+Right pointer at end
+
+Move based on sum comparison
+
+Interviewer Modifications:
+
+Return count instead of indices
+
+Return all pairs
+
+Array contains duplicates
+
+Do it in O(1) extra space
+
+👉 Master this before moving ahead.
+
+2️⃣ Valid Palindrome
+
+LeetCode #125
+
+Concept:
+
+Ignore non-alphanumeric
+
+Case insensitive
+
+Compare left & right
+
+Interviewer Modifications:
+
+Allow one character removal (connects to Valid Palindrome II)
+
+String is very large → optimize space
+
+Don’t use built-in functions
+
+3️⃣ Reverse String
+
+LeetCode #344
+
+Concept:
+Basic swapping with two pointers
+
+Interviewer Modifications:
+
+Reverse only vowels
+
+Reverse words instead of characters
+
+In-place only (no extra array)
+
+🟡 LEVEL 2 – Sliding & Conditional Two Pointer
+4️⃣ Move Zeroes
+
+LeetCode #283
+
+Concept:
+
+Slow pointer
+
+Fast pointer
+
+Interviewer Modifications:
+
+Move zeros to front
+
+Maintain relative order strictly
+
+Do in one pass
+
+5️⃣ Remove Duplicates from Sorted Array
+
+LeetCode #26
+
+Concept:
+
+One pointer for unique position
+
+One pointer for traversal
+
+Interviewer Modifications:
+
+Allow at most 2 duplicates (connects to #80)
+
+Return new array instead of length
+
+Array is unsorted
+
+6️⃣ Container With Most Water
+
+LeetCode #11
+
+Concept:
+
+Greedy movement
+
+Move smaller height pointer
+
+Interviewer Modifications:
+
+Return indices also
+
+Circular container
+
+Heights can be negative
+
+This question tests logic maturity.
+
+🟠 LEVEL 3 – Medium Level Interview Favorites
+7️⃣ 3Sum
+
+LeetCode #15
+
+Concept:
+
+Sort + Fix one element
+
+Two pointer on remaining
+
+Interviewer Modifications:
+
+3Sum closest
+
+4Sum
+
+Count triplets instead of returning list
+
+Large input → optimize duplicate handling
+
+This is VERY important for product-based companies.
+
+8️⃣ Sort Colors (Dutch National Flag)
+
+LeetCode #75
+
+Concept:
+
+Three pointers
+
+Partition logic
+
+Interviewer Modifications:
+
+More than 3 colors
+
+Cannot use counting sort
+
+Stable sorting required
+
+9️⃣ Trapping Rain Water
+
+LeetCode #42
+
+Concept:
+
+Two pointer + maxLeft / maxRight
+
+Interviewer Modifications:
+
+Return total water + positions
+
+2D matrix version
+
+Streaming input
+
+This is asked in big tech.
+
+🔴 LEVEL 4 – Advanced Interview Problems
+🔟 Minimum Size Subarray Sum
+
+LeetCode #209
+
+Concept:
+Sliding window + two pointer
+
+Interviewer Modifications:
+
+Negative numbers allowed
+
+Return subarray itself
+
+Multiple queries
+
+1️⃣1️⃣ Subarray Product Less Than K
+
+LeetCode #713
+
+Concept:
+Dynamic window shrink/expand
+
+Interviewer Modifications:
+
+Negative numbers
+
+Return actual subarrays
+
+Product may overflow
+
+1️⃣2️⃣ Longest Repeating Character Replacement
+
+LeetCode #424
+
+Concept:
+Window + frequency tracking
+
+Interviewer Modifications:
+
+Case sensitive
+
+Return substring
+
+Multiple replacement types
