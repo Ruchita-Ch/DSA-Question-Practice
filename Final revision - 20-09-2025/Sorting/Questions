@@ -71,3 +71,68 @@ Then
 7️⃣ 56 – Merge Intervals ⭐
 8️⃣ 215 – Kth Largest Element ⭐
 9️⃣ 347 – Top K Frequent Elements ⭐
+
+
+Ek Important Interview Tip ⚡
+
+Interviewers direct sorting nahi puchte.
+Woh problem ko twist kar dete hain.
+
+Example:
+
+Normal problem
+
+Find duplicates
+
+Interview version
+
+Find duplicates without extra space
+
+Solution → Sort first then compare
+
+Daily Practice Plan (3 Days)
+
+Day 1
+
+977
+
+88
+
+905
+
+Day 2
+
+349
+
+414
+
+75
+
+Day 3
+
+56
+
+215
+
+347
+
+Bas ye 9 questions acche se kar liye
+toh sorting ka base strong ho jayega.
+
+Ek Aur Important Baat
+
+Tum already Two Pointer pattern practice kar rahi ho.
+
+Sorting uska natural extension hai.
+
+Example:
+
+Two Pointer problems:
+
+Two Sum II
+
+3Sum
+
+Container With Most Water
+
+Inme array mostly sorted hota hai.
