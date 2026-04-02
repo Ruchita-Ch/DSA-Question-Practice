@@ -1,1 +1,18 @@
 .Cryptic numbers, problem statement. You are given two integers, L and R, representing the target range of numbers inclusive. A number is called a cryptic number if it satisfies all the following conditions. First, it is divisible by seven. Second, it is not divisible by five. Third, it is not a palindrome. Fourth, it does not contain any repeated digits. Your task is to print all cryptic numbers in the given range. If no such number exists, print minus one
+
+
+2. Got it — this is a “count holes in digits” problem. Let me explain quickly, then give you Java 7 code.
+
+💡 Concept (simple)
+
+Each digit has holes:
+
+0, 4, 6, 9 → 1 hole
+8 → 2 holes
+1, 2, 3, 5, 7 → 0 holes
+
+👉 You just:
+
+Take each digit
+Add holes based on the digit
+Return total
