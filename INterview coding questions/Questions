@@ -19,3 +19,5 @@ Return total
 
 
 3. Write a program to calculate the final payable amount after applying a discount based on a total purchase amount. First, amount is less than 1000, 5% off. If amount is between 1000 to 5000, 10% off. If amount is greater than 5000, 15% off. Negative or zero input error.
+
+4. King wants to arrange army so that no two adjacent soldiers are same, duplicates allowed and total soldiers to arrange are soldier numbers 1 to R and last soldier must be end, always start with 1.
