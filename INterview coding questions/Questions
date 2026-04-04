@@ -20,4 +20,6 @@ Return total
 
 3. Write a program to calculate the final payable amount after applying a discount based on a total purchase amount. First, amount is less than 1000, 5% off. If amount is between 1000 to 5000, 10% off. If amount is greater than 5000, 15% off. Negative or zero input error.
 
-4. King wants to arrange army so that no two adjacent soldiers are same, duplicates allowed and total soldiers to arrange are soldier numbers 1 to R and last soldier must be end, always start with 1.
+4. King wants to arrange army so that no two adjacent soldiers are same, duplicates allowed and total soldiers to arrange are soldier numbers 1 to R and last soldier must be end, always start with 
+
+5. The first question was given a input for a minimum charge required for which a laptop is working. And second line, an array in which how much laptop is charged given. And we need to print the number of laptops that can work. Example, given if n is equal to 5, like minimum charge required is 5, then in array it's given 2, 3, 6, 7, 1. Then output would be 2.
