@@ -4,17 +4,20 @@ public class Que5 {
          Scanner sc = new Scanner(System.in);
 
           int n = sc.nextInt();
+          int mincharge = sc.nextInt();
           int[] arr = new int[n];
 
           for(int i =0; i<n ; i++){
             arr[i] = sc.nextInt();
           }
 
-          for(int i=0; i<n ; i++){
-            System.out.println(arr[i]+" ");
+          int count = 0;
+          for(int i=0; i<n; i++){
+            if(arr[i] > mincharge ){
+                count++;
+            }
           }
-
-          System.out.println();
+          System.out.println(count);
 
     }
 }
