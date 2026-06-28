@@ -45,25 +45,25 @@ SQL Queries Practice Roadmap (50–60 Questions)
 
 ✅ Part 3: Joins (Most Important for Interviews 🚀)
 
-List employees with their department names (INNER JOIN).
+41. List employees with their department names (INNER JOIN).
 
-Find employees who don’t belong to any department (LEFT JOIN).
+42. Find employees who don’t belong to any department (LEFT JOIN).
 
-Find departments with no employees (RIGHT JOIN).
+43. Find departments with no employees (RIGHT JOIN).
 
-Show employees with their manager’s name (SELF JOIN).
+44. Show employees with their manager’s name (SELF JOIN).
 
-Find employees who earn more than their manager.
+45. Find employees who earn more than their manager.
 
-List employees and projects they are working on (JOIN 3 tables).
+46. List employees and projects they are working on (JOIN 3 tables).
 
-Retrieve employees working on multiple projects.
+47. Retrieve employees working on multiple projects.
 
-Find employees who are not assigned to any project.
+48. Find employees who are not assigned to any project.
 
-List employee name with department and project details.
+49. List employee name with department and project details.
 
-Find employees who work in the same department as "Ramesh".
+50. Find employees who work in the same department as "Ramesh".
 
 ✅ Part 4: Subqueries
 
@@ -86,6 +86,40 @@ Find employees who work in the same department as "Ramesh".
 39. List employees who earn more than all employees in HR department.
 
 40. Find department where maximum salary < 40000.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ✅ Part 5: Advanced (Window Functions + Case + Misc.)
 
