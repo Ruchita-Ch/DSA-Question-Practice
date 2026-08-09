@@ -18,7 +18,7 @@ public class Q2PallindromeOrNot {
         }
 
         if(str.equals(reversed)){
-            System.out.println(str + " is a [allindrome.");
+            System.out.println(str + " is a pallindrome.");
         }else{
             System.out.println(str + " is not the pallindrome.");
         }
