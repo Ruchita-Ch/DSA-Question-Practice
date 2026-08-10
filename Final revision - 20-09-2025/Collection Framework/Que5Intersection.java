@@ -14,10 +14,10 @@ public class Que5Intersection {
             if(set1.contains(num)){
                 result.add(num);
             }
-          }
+          } 
 
-         int[] arr = new int[result.size()];
-
+        int[] arr = new int[result.size()];
+     
          int i=0;
          for(int num: result){
             arr[i] = num;
