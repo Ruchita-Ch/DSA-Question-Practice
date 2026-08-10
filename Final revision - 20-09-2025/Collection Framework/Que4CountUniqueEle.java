@@ -1,4 +1,4 @@
-public class Que3CountUniqueEle {
+public class Que4CountUniqueEle {
 
 
     public static int count(int[] arr){
