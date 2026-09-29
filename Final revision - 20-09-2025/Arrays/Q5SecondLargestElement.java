@@ -1,24 +1,16 @@
 /*Find the second largest lement */
 
 import javax.sound.sampled.SourceDataLine;
-
+import java.util.Arrays;
 public class Q5SecondLargestElement {
 
     public static int SecondLargest(int[] arr){
-       if(arr.length<2){
-         System.out.println("Array must contain 2 lement to decide second largest elemnt.");
-         return -1;
-       }
+           int[] arr={10,20,30,40,50};
 
-       int largest = Integer.MIN_VALUE;
-       int secondLargest = Integer.MIN_VALUE;
+           Arrays.sort();
+        
 
-       for(int num :arr){
-        if(num>largest){
-            secondLargest = largest;
-            largest = num;
-        }
-       }
+
     }
     public static void main(String[] args){
        
