@@ -5,10 +5,12 @@ import java.util.Arrays;
 public class Q5SecondLargestElement {
 
     public static int SecondLargest(int[] arr){
-           int[] arr={10,20,30,40,50};
+           int[] nums={10,20,30,40,50};
+           
 
-           Arrays.sort();
-        
+           int largest = Integer.MIN_VALUE;
+
+
 
 
     }
