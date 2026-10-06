@@ -1,0 +1,24 @@
+1. Browser Back Button 🌐
+Jo pages visit karte ho woh stack mein store hote hain.
+Back click → last visited page pop().
+Example: Google → YouTube → Instagram → Back → YouTube.
+
+2.Undo/Redo in Applications ↩️
+Word, VS Code, Photoshop etc. mein actions stack mein store hote hain.
+Undo → last action remove (pop()).
+Example: Type → Delete → Undo → Delete action reverse.
+
+3.Function Call Stack in Programming 💻
+Jab ek function dusre function ko call karta hai, calls stack mein store hote hain.
+Last called function pehle complete hota hai.
+Isi ko Call Stack kehte hain.
+
+4.Backtracking / Maze Games 🧩
+Maze mein jo path follow kiya woh stack mein store kar sakte hain.
+Dead end aaya → last position pop() karke backtrack.
+Used in maze solving, puzzles, games etc.
+
+5.Text Editor / Bracket Matching 📝
+Code editors/compiler mein (), {}, [] jaise brackets check karne ke liye stack use hota hai.
+Opening bracket → push()
+Closing bracket → pop() and match.
