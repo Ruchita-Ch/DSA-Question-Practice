@@ -1,3 +1,16 @@
 1. writing stack using java built int
 2. Implemenet stack from scrac=tch
 3. application of stack
+
+
+/*
+
+Stack vs Queue — Cheat Sheet
+	             Stack	                        Queue
+Principle	       LIFO	                        FIFO
+Add	                push()                        offer() / add()
+Remove	            pop()                     	poll() / remove()
+See element     	peek()	                    peek()
+Add location	    TOP                     	REAR
+Remove location	    TOP	                        RONT
+Real-life example	Plates	                    People in line
