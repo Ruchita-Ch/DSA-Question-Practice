@@ -15,4 +15,11 @@ public class Q4implementStackUsing {
         }
         arr[++top] =x;
       }
+
+      int pop() {
+        if(top == -1 ) {
+            System.out.println("Stack Underflow");
+            return -1;
+        }
+      }
 }
