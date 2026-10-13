@@ -24,3 +24,12 @@ public class Q1BubbleSort {
 
     }
 }
+/*
+
+
+3. Interview mein kya answer dena hai?
+Case	                                    Time Complexity
+Best case —                                  	\(O(n^2)\)
+Average case	                                 \(O(n^2)\)
+Worst case	                                      \(O(n^2)\)
+Space complexity                                	\(O(1)\)*/
