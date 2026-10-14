@@ -7,7 +7,7 @@ public class Q2BinarySearchUsingMethod {
         int result = -1;
         while(left < right){
 
-            
+          int mid = left+(right - left)/2;
         }
     }
     public static void main(String[] args){
