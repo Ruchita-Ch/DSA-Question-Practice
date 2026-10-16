@@ -1,5 +1,16 @@
 What is a linked list and how is it different from an array?
 
+Feature	Array           	LinkedList
+Memory layout	         Elements stored contiguously	           Nodes can be stored separately
+Size	Fixed after creation	Dynamic
+Access by index	\(O(1)\)	\(O(n)\)
+Search by value	\(O(n)\) for an unsorted array	\(O(n)\)
+Insert at beginning	\(O(n)\) due to shifting	\(O(1)\) with head reference
+Delete at beginning	\(O(n)\) due to shifting	\(O(1)\) with head reference
+Insert at end	Fixed array may have no space; dynamic arrays are amortized \(O(1)\)	\(O(1)\) for Java's LinkedList
+Extra memory	Usually lower	Higher because of node references
+Cache performance	Usually better	Usually worse
+
 What are the advantages and disadvantages of using a linked list?
 
 What is the difference between singly, doubly, and circular linked lists?
