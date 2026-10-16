@@ -1,4 +1,4 @@
-What is a linked list and how is it different from an array?
+1. What is a linked list and how is it different from an array?
 
 Feature	Array           	LinkedList
 Memory layout	         Elements stored contiguously	           Nodes can be stored separately
@@ -11,9 +11,9 @@ Insert at end	Fixed array may have no space; dynamic arrays are amortized \(O(1)
 Extra memory	Usually lower	Higher because of node references
 Cache performance	Usually better	Usually worse
 
-What are the advantages and disadvantages of using a linked list?
+2. What are the advantages and disadvantages of using a linked list?
 
-What is the difference between singly, doubly, and circular linked lists?
+3. What is the difference between singly, doubly, and circular linked lists?
 
 What is a node in a linked list?
 
